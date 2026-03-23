@@ -21,7 +21,7 @@ Apesar da minha experiência técnica vir sobretudo do percurso académico, dese
 ## 🛠️ Technologies & Tools that I´ve worked with
 
 ### **Programming Languages**
-KOTLIN • PYTHON • SQL • C • JAVA • JAVASCRIPT
+KOTLIN • PYTHON • SQL • C • JAVA • JAVASCRIPT • ASSEMBLY
 
 ### **Frameworks & Libraries**
 JETPACK COMPOSE • SPRING BOOT • REACT • NODE.JS
